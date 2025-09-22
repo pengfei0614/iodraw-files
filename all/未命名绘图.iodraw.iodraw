@@ -14,13 +14,13 @@
           <mxGeometry x="162" y="302" width="198" height="102" as="geometry" />
         </mxCell>
         <mxCell id="WZc_lsBb3v6i7whI0eLa-4" value="用户选择&#xa;连接方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="196" y="454" width="131" height="131" as="geometry" />
+          <mxGeometry x="196" y="454" width="131" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WZc_lsBb3v6i7whI0eLa-5" value="置输入框为只读&#xa;拉取并显示自动获得参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="658" width="236" height="67" as="geometry" />
         </mxCell>
         <mxCell id="WZc_lsBb3v6i7whI0eLa-6" value="启用输入框&#xa;等待用户填写" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="306" y="658" width="156" height="67" as="geometry" />
+          <mxGeometry x="323" y="591" width="156" height="67" as="geometry" />
         </mxCell>
         <mxCell id="WZc_lsBb3v6i7whI0eLa-7" value="点击保存" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="205" y="774" width="113" height="113" as="geometry" />
